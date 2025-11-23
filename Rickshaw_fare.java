@@ -37,6 +37,7 @@ public class Rickshaw_fare
         //Final Fare Total
          System.out.println("Total Fare: Nrs "+ totalFare);
          
+         
         
         
         
